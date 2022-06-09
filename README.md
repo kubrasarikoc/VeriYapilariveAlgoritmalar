@@ -1,2 +1,1 @@
-# VeriYapilariveAlgoritmalar
-Veri Yapıları ve Algoritmalar Dersi Projesi
+# Veri Yapıları ve Algoritmalar Dersi Projesi
